@@ -1,8 +1,8 @@
-# <strong><em> Hospital-Management-System-using-Java</em></strong>
-## <strong> Introduction <br> </strong>
+# <strong><em> 🏥 Hospital-Management-System-using-Java🩺 </em></strong>
+
 Hospital Management System is an organized computerized system designed and programmed to deal with day-to-day operations and management of hospital activities.
 Hospitals and healthcare facilities improve the quality of healthcare services, reduce operating costs, and improve the revenue cycle by using such hospital management systems. This Project is developed in JAVA and MySQL is the database used. The Hospital Management System can be entered using a username and password. It is accessible either by a receptionist, doctor, or patient. The data can be retrieved and updated easily and the interface is very user-friendly.  The major problem for the patient nowadays is to get a report after consultation, many hospitals manage reports in their system but it's not available to the patient when he/she is outside. In this project, we are going to provide the extra facility to store the report in the database and make it available from anywhere in the world.
-## <strong> Objectives of the project <br> </strong>
+## <strong>⭐ Objectives of the project⭐ <br> </strong>
 <p>
 <ul>
 <li>To computerize all details regarding patient details and hospital details.</li>
@@ -14,7 +14,7 @@ Hospitals and healthcare facilities improve the quality of healthcare services, 
 </p>
 <br>
 
-## <strong> Screenshots <br> </strong>
+## <strong> 🖥Screenshots🖥  <br> </strong>
 Home page<br>
 
 ![Screenshot 2023-05-23 203636](https://github.com/Nandanair622/Hospital-Management-System-using-Java/assets/97756235/91312b74-df33-4ae4-963d-5c34991c7be4)
@@ -61,3 +61,7 @@ The receptionist generates bills and can create a pdf for sharing them with the 
 
 ![Screenshot 2023-05-23 203906](https://github.com/Nandanair622/Hospital-Management-System-using-Java/assets/97756235/aba42d9b-6318-4875-9109-18db146fc913)<br>
 
+## <strong> ⭐DEVELOPERS⭐ </strong><br>  
+1. Nandana Nair<br>
+2. Sakshi Patil<br>
+3. Prajwal Patil<br> 
